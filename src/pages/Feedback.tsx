@@ -184,13 +184,14 @@ const Feedback = () => {
                   <FormItem>
                     <FormLabel>Service Quality Rating</FormLabel>
                     <FormControl>
-                      <div className="flex gap-2">
+                      <div className="flex flex-wrap gap-2">
                         {["Poor", "Fair", "Good", "Very Good", "Excellent"].map((quality) => (
                           <Button
                             key={quality}
                             type="button"
                             variant={field.value === quality ? "default" : "outline"}
                             size="sm"
+                            className="w-full md:w-auto"
                             onClick={() => field.onChange(quality)}
                           >
                             {quality}
