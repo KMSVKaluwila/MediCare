@@ -40,7 +40,7 @@ npm run dev
 
 ## Project Structure
 ```
-medihub-lk/
+MediCare/
 ├── src/
 │   ├── components/
 │   ├── pages/
