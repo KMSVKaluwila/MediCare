@@ -53,4 +53,4 @@ medihub-lk/
 ## Contact
 Sachin Kaluwila
 Email: kmsvsachin@gmail.com
-GitHub: [Your GitHub Profile](https://github.com/KMSVKaluwila)
+GitHub: https://github.com/KMSVKaluwila
