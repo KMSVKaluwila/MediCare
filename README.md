@@ -22,7 +22,7 @@ MediHub LK is a comprehensive healthcare appointment management system designed 
 git clone <your-repository-url>
 
 # Navigate to project directory
-cd medihub-lk
+cd MediCare
 
 # Install dependencies
 npm install
