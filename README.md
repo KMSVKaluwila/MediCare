@@ -1,7 +1,7 @@
-# MediHub LK - Patient Appointment Management System
+# MediCare - Patient Appointment Management System
 
 ## Project Overview
-MediHub LK is a comprehensive healthcare appointment management system designed for Sri Lankan medical institutions. This platform facilitates easy appointment booking and management between patients and healthcare providers.
+MediCare is a comprehensive healthcare appointment management system designed for Sri Lankan medical institutions. This platform facilitates easy appointment booking and management between patients and healthcare providers.
 
 ## Technologies Used
 - React
