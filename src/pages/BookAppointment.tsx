@@ -236,7 +236,3 @@ const BookAppointment = () => {
 };
 
 export default BookAppointment;
-
-// export default function BookAppointment() {
-//   return <div>Appointment Booking UI</div>;
-// }
