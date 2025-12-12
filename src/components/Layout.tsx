@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 
 const navItems = [
-  { name: "Home", path: "/" },
+  { name: "Home", path: "" },
   { name: "Patient Registration", path: "/patient-registration" },
   { name: "Doctor Registration", path: "/doctor-registration" },
   { name: "Book Appointment", path: "/book-appointment" },
