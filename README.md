@@ -62,7 +62,7 @@ MediCare/
 └── package.json
 ```
 
-## 📞 Contact
+## Contact
 
 **Sachin Kaluwila**
 Email: [kmsvsachin@gmail.com](mailto:kmsvsachin@gmail.com)
